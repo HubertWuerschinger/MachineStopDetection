@@ -32,8 +32,7 @@ Diese sind in der Datei **`requirements.txt`** hinterlegt und können mit folgen
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 ---
 
 ## 🔧 Vorgehensweise
