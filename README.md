@@ -10,8 +10,6 @@ Das folgende Bild zeigt ein Beispiel aus dem Video, in dem der **Roboter das Wer
 
 ![Beispiel für die Objekterkennung](val_batch1_labels.jpg)  
 
-Falls das Bild in einem Unterordner (`images/`) liegt, ändere den Pfad entsprechend:  
-
 ```markdown
 ![Beispiel für die Objekterkennung](images/val_batch1_labels.jpg)
 
