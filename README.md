@@ -123,9 +123,9 @@ python scripts/analyze_stillstand.py --csv results/object_detections.csv --thres
 ---
 
 ## 🏆 Autor
-**Dein Name**  
-LinkedIn: [Dein Profil](https://www.linkedin.com/)  
-GitHub: [Dein Username](https://github.com/dein-username)
+**Hubert Würschinger**  
+LinkedIn: [Hubert Würschinger](https://www.linkedin.com/in/hubert-w%C3%BCrschinger-82031813b/)  
+GitHub: [Hubert Wuerschinger](https://github.com/HubertWuerschinger)
 
 ---
 
