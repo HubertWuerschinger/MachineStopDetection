@@ -11,6 +11,29 @@ Dieses Repository zeigt, wie man mit **YOLOv8** Objekte in Videos erkennt, die P
 - ⏰ **Stillstandsanalyse mit Vektoren**
 - 🌐 **Live-Analyse mit OpenCV**
 
+
+## 📌 Installationsanleitung & Abhängigkeiten  
+
+### 🔹 Python-Version  
+Dieses Projekt wurde mit **Python 3.11.11** getestet.  
+Es wird empfohlen, eine **virtuelle Umgebung** zu verwenden, um Konflikte mit bestehenden Paketen zu vermeiden.  
+
+---
+
+### 🔹 Benötigte Abhängigkeiten  
+Folgende Python-Pakete sind für das Projekt erforderlich:  
+- `ultralytics` → YOLOv8 für Objekterkennung & Training  
+- `opencv-python` → Verarbeitung & Anzeige von Videos & Bildern  
+- `pandas` → Speicherung & Analyse der erkannten Objektdaten  
+- `matplotlib` → Visualisierung der X- & Y-Positionen  
+- `numpy` → Berechnung der Stillstandsvektoren  
+
+Diese sind in der Datei **`requirements.txt`** hinterlegt und können mit folgendem Befehl installiert werden:  
+
+```bash
+pip install -r requirements.txt
+
+
 ---
 
 ## 🔧 Vorgehensweise
