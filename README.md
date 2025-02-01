@@ -10,9 +10,6 @@ Das folgende Bild zeigt ein Beispiel aus dem Video, in dem der **das Roboterwerk
 
 ![Beispiel für die Objekterkennung](val_batch1_labels.jpg)  
 
-```markdown
-![Beispiel für die Objekterkennung](images/val_batch1_labels.jpg)
-
 
 
 ## 📚 Funktionen
