@@ -4,6 +4,19 @@
 Ziel des Projektes ist zu zeigen, wie sich eine Maschinenstillstandsanalyse in wenigen Schritten durchführen lässt.
 Dieses Repository zeigt, wie man mit **YOLOv8** Objekte in Videos erkennt, die Positionen speichert und Bewegungsanalysen durchführt. 
 
+## 📌 Beispiel für die Objekterkennung  
+
+Das folgende Bild zeigt ein Beispiel aus dem Video, in dem der **Roboter das Werkzeug und den Fräser** erkennt:  
+
+![Beispiel für die Objekterkennung](val_batch1_labels.jpg)  
+
+Falls das Bild in einem Unterordner (`images/`) liegt, ändere den Pfad entsprechend:  
+
+```markdown
+![Beispiel für die Objekterkennung](images/val_batch1_labels.jpg)
+
+
+
 ## 📚 Funktionen
 - 🎥 **Objekterkennung in Videos mit YOLOv8**
 - 📊 **Speicherung der Objektpositionen als CSV**
