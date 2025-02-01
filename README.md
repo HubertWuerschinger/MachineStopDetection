@@ -6,7 +6,7 @@ Dieses Repository zeigt, wie man mit **YOLOv8** Objekte in Videos erkennt, die P
 
 ## 📌 Beispiel für die Objekterkennung  
 
-Das folgende Bild zeigt ein Beispiel aus dem Video, in dem der **Roboter das Werkzeug und den Fräser** erkennt:  
+Das folgende Bild zeigt ein Beispiel aus dem Video, in dem der **das Roboterwerkzeug und den Fräser** erkannt werden:  
 
 ![Beispiel für die Objekterkennung](val_batch1_labels.jpg)  
 
