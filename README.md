@@ -163,3 +163,7 @@ GitHub: [Hubert Wuerschinger](https://github.com/HubertWuerschinger)
 ## ✨ Lizenz
 Dieses Projekt steht unter der **MIT-Lizenz**. Fühle dich frei, es zu nutzen und anzupassen! 🚀
 
+
+📢 **Hinweis:**  
+Dieses Repository wurde mit Hilfe von **Generative AI (GenAI)** erstellt und optimiert.  
+Die Code-Generierung, Dokumentation und Strukturierung wurden durch KI-gestützte Werkzeuge beschleunigt. 🤖🚀  
