@@ -1,6 +1,7 @@
 # YOLOv8 Video Object Detection & Tracking
 
 ## 📚 Projektbeschreibung
+Ziel des Projektes ist zu zeigen, wie sich eine Maschinenstillstandsanalyse in wenigen Schritten durchführen lässt.
 Dieses Repository zeigt, wie man mit **YOLOv8** Objekte in Videos erkennt, die Positionen speichert und Bewegungsanalysen durchführt. 
 
 ## 📚 Funktionen
